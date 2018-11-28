@@ -1,0 +1,1 @@
+This is my first Front-end project from the odin project. I will be using HTML,CSS,JQUERY and JAVASCRIPT.
